@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WorWithActivity</string>
+    <string name="button2">Go to the activity 1</string>
+    <string name="button1">Go to the activity 2</string>
+    <string name="text2">This is activity 2</string>
+    <string name="text1">This is activity 1</string>
+</resources>
